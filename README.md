@@ -11,7 +11,7 @@
              <h1 style="color:yellow;text-align:center;font-size:50px">Як створювався S.T.A.L.K.E.R</h1>
              <p style="font-size:20px;text-align:center;color:yellow">Першу частину сталкера почала розробляти молода компанія GSC GAME WORD, в 2001 році на власному ігровому рушії X-Ray.Гра носила назву Oblivion Lost, а згодом гру назвали S.T.A.L.K.E.R Shadow of Chornobyl.</p>
           <p style="text-align:center;">
-          <img src="https://images.app.goo.gl/H9G1iP7JTah1FJq26" height="180"></p>  
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc5l8yy8WryP2IKG5XxxcoMkyIK3j-A0WERQ3nZnB7aGRPlBQItzMNMxSwbTUjyk2xBCM&usqp=CAU" height="180"></p>  
              <p style="font-size:20px;text-align:center;color:yellow">Події гри відбуваються в альтернативному світі на території України, в Чорнобильській зоні відчуження. Згідно сюжету серії, в 2006 році зона зазнала несподіваного аномального впливу</p>
               <p style="text-align:center;">
             <img src="https://static.wikia.nocookie.net/stalker/images/e/eb/Pripyat_1-stalker-call-of-pripyat.jpg/revision/latest?cb=20120806151901&path-prefix=uk"height="180"></p>
